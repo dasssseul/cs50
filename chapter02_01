@@ -1,18 +1,13 @@
-2. C언어 
-
-1) C기초
 
 <'hello, world' 출력하기>
 
-#include <stdio.h> -> "stdio.h"라는 이름의 파일을 찾아 "printf" 함수에 접근 가능
+#include <stdio.h> 
 
-int main(void) -> '시작한다'
+int main(void) 
 {
     printf("hello, world\n");
 }
 
-
-2) 문자열
 
 <'좋아하는 동물을 알려주세요' 실습>
 
@@ -25,8 +20,6 @@ int main(void)
     printf("my favorite animal is %s\n", animal);
 }
 
-
-3) 조건문과 루프
 
 <'개발공부는 재미있다' 실습>
 
