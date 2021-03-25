@@ -62,6 +62,3 @@ int main(void)
 
     printf("Average: %i\n", (score[0]+score[1]+score[2]) / 3);
 }
-
-
-
