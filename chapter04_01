@@ -1,3 +1,4 @@
+
 //4. 알고리즘
 
 //선형검색_numbers
@@ -111,4 +112,5 @@ int main(void)
     printf("Not found\n");
     return 1;
 }
+
 
